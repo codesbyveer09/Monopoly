@@ -30,7 +30,7 @@ for i in range(tl_plrs):
 
 
 # Cards info into Dictionary
-with open("C:/Users/veera/Documents/Programs/Monopoly/mpcards.csv", "r") as cards:
+with open("mpcards.csv", "r") as cards:          # The destination of mpcards.csv can be changed from here
     csv_reader = csv.reader(cards, delimiter=",")
     k=0
     for i in csv_reader:
