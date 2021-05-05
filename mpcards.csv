@@ -1,0 +1,41 @@
+Card Name,Type,Price,Rent,1 House,2 House,3 House,4 House,Hotel,Colour
+Go,Square,200,,,,,,,white
+Guwahati,Property,60,2,10,30,90,160,250,brown
+Community Chest,Luck,,,,,,,,white
+Bhuvneshwar,Property,60,4,20,60,180,320,450,brown
+Income Tax,Tax,200,,,,,,,white
+Chennai Rail,Station,200,,25,50,100,200,,black
+Panaji,Property,100,6,30,90,270,400,550,light blue
+Chance,Luck,,,,,,,,white
+Agra,Property,100,6,30,90,270,400,550,light blue
+Vadodara,Property,120,8,40,100,300,450,600,light blue
+Jail,Square,,,,,,,,white
+Ludhiana,Property,140,10,50,150,450,625,750,pink
+Electric Company,Utilities,150,4,,,,,,grey
+Patna,Property,140,10,50,150,450,625,750,pink
+Bhopal,Property,160,12,60,180,500,700,900,pink
+Howrah Railway,Station,200,,25,50,100,200,,black
+Indore,Property,160,14,70,200,550,750,950,orange
+Community Chest,Luck,,,,,,,,white
+Nagpur,Property,180,14,70,200,550,750,950,orange
+Kochi,Property,200,16,80,220,600,800,950,orange
+Parking,Square,,,,,,,,white
+Lucknow,Property,220,18,90,250,700,875,1050,red
+Chance,Luck,,,,,,,,white
+Chandigarh,Property,220,18,90,250,700,875,1050,red
+Jaipur,Property,240,20,100,300,750,925,1100,red
+Delhi Railway,Station,200,,25,50,100,200,,black
+Pune,Property,260,22,110,330,800,975,1150,yellow
+Hyderabad,Property,260,22,110,330,800,975,1150,yellow
+Water Works,Utilities,150,4,,,,,,grey
+Ahmedabad,Property,280,24,120,360,850,1025,1200,yellow
+Go to Jail,Square,,,,,,,,white
+Kolkata,Property,300,26,130,390,900,1100,1275,green
+Chennai,Property,300,26,130,390,900,1100,1275,green
+Community Chest,Luck,,,,,,,,white
+Bengaluru,Property,320,28,150,450,1000,1200,1400,green
+Chatrapati Shivaji,Station,200,,25,50,100,200,,black
+Chance,Luck,,,,,,,,white
+Delhi,Property,350,35,175,500,1100,1300,1500,blue
+Super Tax,Tax,100,,,,,,,white
+Mumbai,Property,400,50,200,600,1400,1700,2000,blue
